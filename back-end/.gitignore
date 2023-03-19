@@ -1,0 +1,62 @@
+# Compiled class file
+*.class
+
+# Log files
+log/
+logs/
+*.log
+!application*.log
+
+# Spring Boot Jar files
+target/
+*.jar
+*.war
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+
+# Maven files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle files
+.gradle/
+build/
+.gradle/
+.gradle-cache/
+.gradle-java-home/
+.gradle/notifications/
+.gradle-plugins/
+.gradle/worker/
+gradle*.lock
+gradlew
+gradlew.bat
+settings.gradle
+*.log
+
+# Application Config files
+config/application*.yml
+config/application*.properties
+
+# Test-generated files
+test-output/
+test-classes/
+test.log
+
+# Generated files
+/bin/
+/build/
+/out/
+
+/src/main/resources/application-dev.properties

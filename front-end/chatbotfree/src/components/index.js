@@ -1,0 +1,10 @@
+export {default as HomePage} from './HomePage';
+export {default as Header} from './Header';
+export {default as Footer} from './Footer';
+export {default as Content} from './Content';
+export {default as InputBox} from './InputBox';
+export {default as DialogBox} from './DialogBox';
+export {default as LineChatBot} from './LineChatBot';
+export {default as LanguageSelector} from './LanguageSelector';
+export {default as Contact} from './Contact';
+export {default as ContactMail} from './ContactMail';
